@@ -1,0 +1,11 @@
+/target
+*.log
+.DS_Store
+local.properties
+.idea
+.idea/*
+.idea/**/
+
+*.iml
+/build
+/src/main/webapp/WEB-INF/classes
